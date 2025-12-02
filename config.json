@@ -4,15 +4,15 @@
   "prefix": "!",
   "symbols": "●",
   "owner": {
-    "name": "YOUR_NAME",
-    "facebook": "FACEBOOK_ID",
-    "username": "TG_USERNAME"
+    "name": "Apon",
+    "facebook": "Arvion thalven",
+    "username": "apon_dicaprio"
   },
   "admin": [
-    "ADMIN_UID"
+    "01765144711"
   ],
   "vip": [
-    "VIP_UID"
+    "01765144711"
   ],
   "loadCmds": true,
   "loadEvents": true,
